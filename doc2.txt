@@ -1,2 +1,1 @@
-aaaa cambio quiero
-bueno ahora agrego esto remotamente desde github
+elimine los cambios
